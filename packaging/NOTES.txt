@@ -1,0 +1,1 @@
+Export will be blocked if critical validation issues exist. Ensure reference tables are populated.

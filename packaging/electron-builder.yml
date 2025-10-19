@@ -1,0 +1,15 @@
+appId: com.awesomemedical.nhia
+productName: AWESOME NHIA Vetting
+directories:
+  output: dist_electron
+  buildResources: build
+files:
+  - backend/**
+  - frontend/dist/**
+  - electron/**
+win:
+  target:
+    - nsis
+nsis:
+  oneClick: false
+  perMachine: false

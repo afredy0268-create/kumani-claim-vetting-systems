@@ -1,0 +1,1 @@
+{ "name":"nhia-vetting-frontend","version":"0.1.0","private":true,"scripts":{"dev":"vite"},"dependencies":{"react":"^18.2.0","axios":"^1.4.0"} }

@@ -1,0 +1,4 @@
+{
+  "nhisIdPattern": "^\\\\d{5}$",
+  "polypharmacy_threshold": 6
+}
